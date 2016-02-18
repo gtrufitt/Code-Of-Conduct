@@ -50,3 +50,5 @@ Failing to follow the community guidelines as described in this document carries
 * Adam Onishi - @onishiweb
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+
+*Job posts that do not explicitly mention a company or require contacting an external recruiter to apply will be removed.*
